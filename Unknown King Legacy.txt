@@ -1,4 +1,4 @@
--- ofuscator 0.1s | https://discord.gg/aybpMwEetk
+
 do
 local function xbBqcxkZV7P(a,b)
  local r=0 local iqId,r_6E
